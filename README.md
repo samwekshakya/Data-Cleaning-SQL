@@ -9,4 +9,4 @@ This project focuses on cleaning and preprocessing data using MySQL. It involves
 
 The goal of this project is to demonstrate essential data cleaning techniques to prepare datasets for analysis or reporting.
 
-Reference Video: <a href="https://youtu.be/4UltKCnnnTA?si=Eh1OkZz6vNQua5PX" /a>
+Reference Video: "https://youtu.be/4UltKCnnnTA?si=Eh1OkZz6vNQua5PX"
